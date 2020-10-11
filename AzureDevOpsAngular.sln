@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevOpsAngular.Client", "AzureDevOpsAngular.Client\AzureDevOpsAngular.Client.csproj", "{06F1484D-76BF-4976-9FE4-8C404F83FAF7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevOpsAngular.Services", "AzureDevOpsAngular.Services\AzureDevOpsAngular.Services.csproj", "{44779B0F-00A4-4693-A2ED-41E7F0C78FD5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.DevOpsNetCore.Client", "Azure.DevOpsNetCore.Client\Azure.DevOpsNetCore.Client.csproj", "{91F5CB42-E740-416B-8E0C-B183EBAE0692}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06F1484D-76BF-4976-9FE4-8C404F83FAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06F1484D-76BF-4976-9FE4-8C404F83FAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06F1484D-76BF-4976-9FE4-8C404F83FAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06F1484D-76BF-4976-9FE4-8C404F83FAF7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{44779B0F-00A4-4693-A2ED-41E7F0C78FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44779B0F-00A4-4693-A2ED-41E7F0C78FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44779B0F-00A4-4693-A2ED-41E7F0C78FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44779B0F-00A4-4693-A2ED-41E7F0C78FD5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91F5CB42-E740-416B-8E0C-B183EBAE0692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91F5CB42-E740-416B-8E0C-B183EBAE0692}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91F5CB42-E740-416B-8E0C-B183EBAE0692}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91F5CB42-E740-416B-8E0C-B183EBAE0692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
